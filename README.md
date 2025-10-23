@@ -93,7 +93,7 @@ client.close()
 
 ```
 
-### python.py
+### server.py
 
 ```python
 import socket
